@@ -1,2 +1,2 @@
 # data-structure
-Implementar Fila, Pilha e Lista utilizando vetor.
+Principais estruturas de dados lineares.
