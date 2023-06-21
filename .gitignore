@@ -1,3 +1,4 @@
 # Files not going to the repository
 
 .idea
+*.iml
